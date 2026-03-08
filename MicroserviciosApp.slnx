@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Services/">
+    <Project Path="Services/Gateway.API/Gateway.API.csproj" />
+    <Project Path="Services/Orders.API/Orders.API.csproj" />
+    <Project Path="Services/Products.API/Products.API.csproj" />
+    <Project Path="Services/Users.API/Users.API.csproj" />
+  </Folder>
+  <Folder Name="/Shared/">
+    <Project Path="Shared/SharedModels/SharedModels.csproj" />
+  </Folder>
+</Solution>
